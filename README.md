@@ -12,3 +12,4 @@ Entregables: repositorio de github, pdf con capturas.
 Esta actividad se promediará con la realizada en clase.
 
 
+![image](https://github.com/user-attachments/assets/86e1e45c-3ca1-4e4e-9cf0-41c57265ad49)
